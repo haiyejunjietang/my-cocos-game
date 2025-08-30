@@ -2,6 +2,3 @@
 
 ### 游戏介绍
 基于 Cocos Creator 复刻的**经典红白机猎鸭游戏**，目前做好了基本玩法流程，支持浏览器直接运行。
-
-### 在线玩
-直接访问：[https://haiyejunjietang.github.io/duck-hunting-game/](https://haiyejunjietang.github.io/duck-hunting-game/)
